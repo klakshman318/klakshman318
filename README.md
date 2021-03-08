@@ -7,13 +7,13 @@
 <img align='right' src='http://www.lakshmankambam.com/Lakshman.png' width='200' />
 
 # Lakshman Kambam 👽
-🚀 FullStack Developer 🚀
+🚀 &nbsp;FullStack Developer&nbsp;🚀
 
-- 🔭  I’m currently working on many things.
-- 🌱  I’m currently learning Python
-- 💬  Ask me about Anything
-- 📫  How to reach me: klakshman318@gmail.com
-- 💎  Fun fact: 
+- 🔭  &nbsp;I’m currently working on many things.
+- 🌱  &nbsp;I’m currently learning Python
+- 💬  &nbsp;Ask me about Anything
+- 📫  &nbsp;How to reach me: klakshman318@gmail.com
+- 💎  &nbsp;Fun fact: 
     - "Talent means nothing without consistent effort and practice!!!"
     - "A moment of pain is worth a lifetime of glory!!!"
     
