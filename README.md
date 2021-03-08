@@ -9,11 +9,11 @@
 # Lakshman Kambam 👽
 🚀 FullStack Developer 🚀
 
-- 🔭 I’m currently working on many things.
-- 🌱 I’m currently learning Python
-- 💬 Ask me about Anything
-- 📫 How to reach me: klakshman318@gmail.com
-- 💎 Fun fact: 
+- 🔭  I’m currently working on many things.
+- 🌱  I’m currently learning Python
+- 💬  Ask me about Anything
+- 📫  How to reach me: klakshman318@gmail.com
+- 💎  Fun fact: 
     - "Talent means nothing without consistent effort and practice!!!"
     - "A moment of pain is worth a lifetime of glory!!!"
     
