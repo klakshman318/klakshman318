@@ -10,11 +10,9 @@
 🚀 &nbsp;FullStack Developer&nbsp;🚀
 
 - 🔭  &nbsp;I’m currently working on many things.
-- 🌱  &nbsp;I’m currently learning Python
-- 💬  &nbsp;Ask me about Anything
-- 📫  &nbsp;How to reach me: klakshman318@gmail.com
 - 💎  &nbsp;Fun fact: 
     - "Talent means nothing without consistent effort and practice!!!"
+    - If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes to write/give solution.
     - "A moment of pain is worth a lifetime of glory!!!"
     
 ![Suyash github stats](https://github-readme-stats.vercel.app/api?username=klakshman318&hide=["issues"]&show_icons=true)
