@@ -7,10 +7,13 @@
 <img align='right' src='http://www.lakshmankambam.com/Lakshman.png' width='200' />
 
 # Lakshman Kambam 👽
-🚀 &nbsp;FullStack Developer&nbsp;🚀
+🚀 &nbsp;<b>FullStack Developer</b>&nbsp;🚀
+
+🌞  &nbsp;⟴ JavaScript ⟴ ReactJs ⟴ ReactNative ⟴ Redux ⟴ MongoDB ⟴ NodeJs ⟴ ExpressJs ⟴ NestJs ⟴ MySQL ⟴ Html ⟴ Css ⟴ TwitterBootstrap ⟴ Photoshop
 
 - 🔭  &nbsp;I’m currently working on many things.
-
+- 🌱  &nbsp;I’m trying to understand subatomic particles called quarks within particle.
+- 🌌  &nbsp;I'm so into space, science, nature.
 
 - 💎  &nbsp;Fun fact: 
     - "Talent means nothing without consistent effort and practice!!!"
