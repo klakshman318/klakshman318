@@ -9,10 +9,10 @@
 # Lakshman Kambam 👽
 🚀 &nbsp;<b>FullStack Developer</b>&nbsp;🚀
 
-🌞  &nbsp; 🌱 JavaScript 🌱 ReactJs 🌱 ReactNative 🌱 Redux 🌱 MongoDB 🌱 NodeJs 🌱 ExpressJs 🌱 NestJs 🌱 MySQL 🌱 Html 🌱 Css 🌱 TwitterBootstrap 🌱 Photoshop
+🌞  &nbsp;🌱 &nbsp;JavaScript&nbsp;🌱 &nbsp;ReactJs&nbsp;🌱 &nbsp;ReactNative&nbsp;🌱 &nbsp;Redux&nbsp;🌱 &nbsp;MongoDB&nbsp;🌱 &nbsp;NodeJs&nbsp;🌱 &nbsp;ExpressJs&nbsp;🌱 &nbsp;NestJs&nbsp;🌱 &nbsp;MySQL&nbsp;🌱 &nbsp;Html&nbsp;🌱 &nbsp;Css&nbsp;🌱 &nbsp;TwitterBootstrap&nbsp;🌱 &nbsp;Photoshop
 
 - 🔭  &nbsp;I’m currently working on many things.
-- 🌱  &nbsp;I’m trying to understand subatomic particles called quarks within particle.
+- 🧬  &nbsp;I’m trying to understand subatomic particles called quarks within particle.
 - 🌌  &nbsp;I'm so into space, science, nature.
 
 - 💎  &nbsp;Fun fact: 
