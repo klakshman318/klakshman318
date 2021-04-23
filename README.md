@@ -9,7 +9,7 @@
 # Lakshman Kambam 👽
 🚀 &nbsp;<b>FullStack Developer</b>&nbsp;🚀
 
-&nbsp;🌱 &nbsp;JavaScript&nbsp;🌱 &nbsp;ReactJs&nbsp;🌱 &nbsp;ReactNative&nbsp;🌱 &nbsp;Redux&nbsp;🌱 &nbsp;MongoDB&nbsp;🌱 &nbsp;NodeJs&nbsp;🌱 &nbsp;ExpressJs&nbsp;🌱 &nbsp;NestJs&nbsp;🌱 &nbsp;MySQL&nbsp;🌱 &nbsp;Html&nbsp;🌱 &nbsp;Css&nbsp;🌱 &nbsp;TwitterBootstrap&nbsp;🌱 &nbsp;Photoshop
+&nbsp;🌱 &nbsp;JavaScript&nbsp;🌱 &nbsp;ReactJs&nbsp;🌱 &nbsp;ReactNative&nbsp;🌱 &nbsp;Redux&nbsp;🌱 &nbsp;MongoDB&nbsp;🌱 &nbsp;NodeJs&nbsp;🌱 &nbsp;ExpressJs<br/>&nbsp;🌱 &nbsp;NestJs&nbsp;🌱 &nbsp;MySQL&nbsp;🌱 &nbsp;Html&nbsp;🌱 &nbsp;Css&nbsp;🌱 &nbsp;TwitterBootstrap&nbsp;🌱 &nbsp;Photoshop
 
 🧠  &nbsp;I’m currently working on many things.</br>
 🧬  &nbsp;I’m trying to understand subatomic particles called quarks within particle.</br>
