@@ -15,7 +15,7 @@
 🧬  &nbsp;I’m trying to understand subatomic particles called quarks within particle.</br>
 🌌  &nbsp;I'm so into space, science, nature. (hobbies and interests)</br>
 
-💎  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Talent means nothing without consistent effort and practice!!!"</br>
-💎  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"A moment of pain is worth a lifetime of glory!!!"</br>
+💎  "Talent means nothing without consistent effort and practice!!!"</br>
+💎  "A moment of pain is worth a lifetime of glory!!!"</br>
     
 ![Lakshman Kambam GitHub Stats](https://github-readme-stats.vercel.app/api?username=klakshman318&hide=["issues"]&show_icons=true)
