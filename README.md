@@ -69,3 +69,15 @@ Here are my **GitHub Stats & Contributions**:
 ### 🔹 **Total Pull Requests & Issues** 🔄  
 ![Total PRs & Issues](https://github.com/klakshman318/klakshman318/blob/master/prs-issues.svg)  
 
+### 🔹 **Coding Activity (Commits Per Hour & Day)**  
+![Coding Activity](https://github.com/klakshman318/klakshman318/blob/master/habits.svg)  
+
+### 🔹 **Lines of Code Written**  
+![Lines of Code](https://github.com/klakshman318/klakshman318/blob/master/lines.svg)  
+
+### 🔹 **Recent Achievements & Badges** 🏆  
+![Achievements](https://github.com/klakshman318/klakshman318/blob/master/achievements.svg)  
+
+### 🔹 **Activity Graph (Top Contributors to My Repositories)**  
+![Top Contributors](https://github.com/klakshman318/klakshman318/blob/master/contributors.svg)  
+
