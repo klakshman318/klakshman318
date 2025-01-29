@@ -1,67 +1,78 @@
-name: Generate GitHub Metrics
-
+name: Generating GitHub Metrics
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-
-      - name: Generate Combined GitHub Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-          user: klakshman318
-          base: header, activity, community, repositories
-          
-          # 🔹 Proper Layout Configuration (Ensures Clean Display)
-          config_order: base.header, base.repositories, leetcode, achievements, languages, stars, prs-issues, lines, isocalendar, habits, contributors
-          config_display: large
-          config_padding: 10%  # Adds spacing for a better layout
 
-          # 🔹 LeetCode Plugin (Placed Above Achievements)
-          plugin_leetcode: yes
-          plugin_leetcode_user: "klakshman318"  # Change to your actual LeetCode username
-          plugin_leetcode_sections: solved, skills, recent
-          plugin_leetcode_limit_skills: 5
-          plugin_leetcode_limit_recent: 3
-
-          # 🔹 Achievements & Badges
+          # Options
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Calcutta
           plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-
-          # 🔹 Most Used Languages
           plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: percentage
-          plugin_languages_limit: 10
-
-          # 🔹 Total Stars Earned
-          plugin_stars: yes
-          plugin_stars_limit: 100
-
-          # 🔹 Total PRs & Issues
-          plugin_followup: yes
-          plugin_followup_sections: prs, issues
-
-          # 🔹 Contribution Calendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-          # 🔹 Coding Activity (Commits Per Hour & Day)
-          plugin_habits: yes
-          plugin_habits_days: yes
-          plugin_habits_facts: yes
-
-          # 🔹 Lines of Code Written
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_leetcode: yes
+          plugin_leetcode_limit_recent: 2
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_sections: solved
+          plugin_leetcode_user: .user.login
           plugin_lines: yes
-          plugin_lines_repositories_limit: 100
-
-          # 🔹 Activity Graph (Top Contributors)
-          plugin_contributors: yes
-          plugin_contributors_base: repositories
-          plugin_contributors_sections: all
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          plugin_notable_types: commit
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_limit_issues: 100
+          plugin_screenshot: yes
+          plugin_screenshot_background: yes
+          plugin_screenshot_mode: image
+          plugin_screenshot_selector: body
+          plugin_screenshot_title: Personal Website
+          plugin_screenshot_url: https://lakshmankambam.com
+          plugin_screenshot_viewport: {
+            "width": 1280,
+            "height": 1280
+          }
