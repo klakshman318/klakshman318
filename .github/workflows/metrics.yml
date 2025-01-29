@@ -46,7 +46,7 @@ jobs:
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
-          plugin_leetcode_user: .user.login
+          plugin_leetcode_user: klakshman318
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
@@ -72,7 +72,4 @@ jobs:
           plugin_screenshot_selector: body
           plugin_screenshot_title: Personal Website
           plugin_screenshot_url: https://lakshmankambam.com
-          plugin_screenshot_viewport: {
-            "width": 1280,
-            "height": 1280
-          }
+          plugin_screenshot_viewport: '{"width": 1280, "height": 1280}'
