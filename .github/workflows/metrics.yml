@@ -29,6 +29,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
+          base: repositories
 
       # Repositories Overview
       - name: Generate Repositories Overview
@@ -39,6 +40,7 @@ jobs:
           user: klakshman318
           plugin_repositories: yes
           plugin_repositories_affiliations: owner, collaborator
+          base: repositories
 
       # Contribution Calendar
       - name: Generate Contribution Calendar
@@ -48,6 +50,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: klakshman318
           plugin_iso_calendar: yes
+          base: repositories
 
       # Total Stars Earned
       - name: Generate Total Stars Earned
@@ -58,6 +61,7 @@ jobs:
           user: klakshman318
           plugin_stars: yes
           plugin_stars_limit: 100  # Max 100 starred repos displayed
+          base: repositories
 
       # Total PRs & Issues
       - name: Generate Total PRs & Issues
@@ -68,3 +72,4 @@ jobs:
           user: klakshman318
           plugin_followup: yes
           plugin_followup_sections: prs, issues
+          base: repositories
