@@ -18,52 +18,40 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 
-#### 🎨 **Frontend Development**
-🌱 JavaScript & TypeScript 🌱 React.js 🌱 Next.js 🌱 React Native 🌱 Redux 🌱 PHP 🌱 jQuery 🌱 HTML5 🌱 CSS3 🌱 Bootstrap 🌱 Material UI 🌱 Tailwind CSS 🌱 IBM Carbon
+#### 🎨 **Frontend Development**  
+🌱 JavaScript & TypeScript 🌱 React.js 🌱 Next.js 🌱 React Native 🌱 Redux 🌱 PHP 🌱 jQuery 🌱 HTML5 🌱 CSS3 🌱 Bootstrap 🌱 Material UI 🌱 Tailwind CSS 🌱 IBM Carbon  
 
-#### 🛠 **Backend Development**
+#### 🛠 **Backend Development**  
 🌱 Node.js 🌱 NestJS 🌱 Express.js 🌱 Mongoose 🌱 TypeORM 🌱 Java Spring Boot 🌱 Python 🌱 API Development 🌱 Redis 🌱 LoopBack.io  
 
-#### 🗄 **Databases**
-🌱 MySQL 🌱 PostgreSQL 🌱 MongoDB 🌱 MongoDB Realm Sync
+#### 🗄 **Databases**  
+🌱 MySQL 🌱 PostgreSQL 🌱 MongoDB 🌱 MongoDB Realm Sync  
 
-#### ☁ **Cloud & DevOps**
-🌱 AWS (EC2, S3, LB, ELB) 🌱 Nginx 🌱 Google Cloud (GCP) 🌱 Kubernetes 🌱 CI/CD 🌱 Cloud Strategy  
+#### ☁ **Cloud & DevOps**  
+🌱 AWS (EC2, S3, LB, ELB) 🌱 Nginx 🌱 Google Cloud (GCP) 🌱 Kubernetes 🌱 CI/CD 🌱 Cloud Strategy   
 
-#### 🔧 **Tools & Other Skills**
-🌱 Jira 🌱 DBMS Architecture 🌱 Open AI API Usage 🌱 Statistical Data Analysis 🌱 Azure Repos 🌱 Code Review 🌱 Data Modeling 🌱 Web Development 🌱 UI/UX 🌱 Mobile App Development 🌱 Google Actions
+#### 🔧 **Tools & Other Skills**  
+🌱 Jira 🌱 DBMS Architecture 🌱 Open AI API Usage 🌱 Statistical Data Analysis 🌱 Azure Repos 🌱 Code Review 🌱 Data Modeling 🌱 Web Development 🌱 UI/UX 🌱 Mobile App Development 🌱 Google Actions  
 
 ---
 
-### 🎮 Hobbies & Interests
-🧠  &nbsp;I’m currently working on many things.
-🧬  &nbsp;I’m fascinated by subatomic particles like quarks and the mysteries of physics.
-🌌  &nbsp;I'm passionate about space, science, and nature.
-🎮  &nbsp;When I’m not coding, you’ll find me immersed in the world of video games—exploring virtual realms on **PC, PlayStation, and Xbox**. Gaming fuels my creativity and problem-solving mindset!
+### 🎮 Hobbies & Interests  
+🧠  &nbsp;I’m currently working on many things.  
+🧬  &nbsp;I’m fascinated by subatomic particles like quarks and the mysteries of physics.  
+🌌  &nbsp;I'm passionate about space, science, and nature.  
+🎮  &nbsp;When I’m not coding, you’ll find me immersed in the world of video games—exploring virtual realms on **PC, PlayStation, and Xbox**. Gaming fuels my creativity and problem-solving mindset!  
 
-### 💡 Quotes I Live By
-💎  *"Talent means nothing without consistent effort and practice!"*
-💎  *"A moment of pain is worth a lifetime of glory!"*
+### 💡 Quotes I Live By  
+💎  *"Talent means nothing without consistent effort and practice!"*  
+💎  *"A moment of pain is worth a lifetime of glory!"* 
 
 ## 📊 GitHub Metrics  
 
-Here’s an overview of **my GitHub activity, coding stats, LeetCode progress, and achievements**:
+Here’s an overview of **my GitHub activity, coding stats, LeetCode progress, and achievements**:  
 
 ![GitHub Metrics](https://github.com/klakshman318/klakshman318/blob/master/github-metrics.svg)  
-
----
-
-### **🔹 What’s Included in My GitHub Metrics?**
-✔ **Profile Summary** (Name, Join Date, Repo Stats, Contributions)  
-✔ **LeetCode Progress** (Recent Submissions, Skills) 🏆  
-✔ **Achievements & Badges** 🎖️ (Unlocked developer milestones)  
-✔ **Most Used Languages** (Top 8, Analyzed Over 14 Days) 🏗️  
-✔ **Lines of Code Written** (Tracked Across 4 Repositories) 📜  
-✔ **Notable Contributions** (Commits in Organizations) 🔥  
-✔ **GitHub Community Engagement** (Followers, Following) 🤝  
-✔ **Reactions & Interactions** (Likes, Comments on GitHub Content) 💬  
 
 
 
