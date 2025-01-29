@@ -52,7 +52,7 @@
 Here are my **GitHub Stats & Contributions**:
 
 ### 🔹 **Profile Summary**  
-![GitHub Metrics](https://github.com/klakshman318/klakshman318/blob/master/github-metrics.svg)  
+![GitHub Metrics](https://github.com/klakshman318/klakshman318/blob/master/github-metrics.svg)
 
 ### 🔹 **Recent Achievements & Badges** 🏆  
 ![Achievements](https://github.com/klakshman318/klakshman318/blob/master/achievements.svg)  
