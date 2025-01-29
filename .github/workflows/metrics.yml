@@ -16,10 +16,37 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: klakshman318
           base: header, activity, community, repositories
+
+          # Most Used Languages
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
-          plugin_lines: yes
-          plugin_followup: yes
+
+          # Repositories Overview
           plugin_repositories: yes
+          plugin_repositories_affiliations: owner, collaborator
+
+          # Contribution Calendar
           plugin_iso_calendar: yes
+
+          # Commits Per Hour & Day
+          plugin_habits: yes
+          plugin_habits_days: yes
+          plugin_habits_facts: yes
+
+          # Starred Repos & Followers
+          plugin_stars: yes
+          plugin_people: yes
+
+          # Lines of Code Written
+          plugin_lines: yes
+
+          # Pull Requests & Issues Statistics
+          plugin_followup: yes
+
+          # Activity Graph
+          plugin_contributors: yes
+
+          # Recent Activity & Achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
