@@ -49,27 +49,22 @@
 
 ## 📊 GitHub Metrics  
 
-Here are my **GitHub Stats & Contributions**, including **LeetCode stats, achievements, coding activity, and more**:
+Here’s an overview of **my GitHub activity, coding stats, LeetCode progress, and achievements**:
 
 ![GitHub Metrics](https://github.com/klakshman318/klakshman318/blob/master/github-metrics.svg)  
 
 ---
 
-### **🔹 What’s Included in This Metrics Image?**
-✔ **Profile Summary** (Name, Join Date, Followers, Repo Activity)  
-✔ **LeetCode Stats** (Solved Problems, Skills, Recent Submissions)  
-✔ **Achievements & Badges** 🏆  
-✔ **Most Used Languages** 🏗️  
-✔ **Total Stars Earned** ⭐  
-✔ **Total PRs & Issues** 🔄  
-✔ **Contribution Calendar** 📅  
-✔ **Coding Activity (Commits Per Hour & Day)** 🕒  
-✔ **Lines of Code Written** 📜  
-✔ **Activity Graph (Top Contributors to My Repositories)**
+### **🔹 What’s Included in My GitHub Metrics?**
+✔ **Profile Summary** (Name, Join Date, Repo Stats, Contributions)  
+✔ **LeetCode Progress** (Recent Submissions, Skills) 🏆  
+✔ **Achievements & Badges** 🎖️ (Unlocked developer milestones)  
+✔ **Most Used Languages** (Top 8, Analyzed Over 14 Days) 🏗️  
+✔ **Lines of Code Written** (Tracked Across 4 Repositories) 📜  
+✔ **Notable Contributions** (Commits in Organizations) 🔥  
+✔ **GitHub Community Engagement** (Followers, Following) 🤝  
+✔ **Reactions & Interactions** (Likes, Comments on GitHub Content) 💬  
+✔ **Website Preview** 🌍 (Auto-generated screenshot of [lakshmankambam.com](https://lakshmankambam.com))  
 
-### 🔹 **Total Stars Earned** ⭐  
-![Total Stars](https://github.com/klakshman318/klakshman318/blob/master/stars.svg) 
 
-### 🔹 **Most Used Languages**  
-![Most Used Languages](https://github.com/klakshman318/klakshman318/blob/master/languages.svg)   
 
