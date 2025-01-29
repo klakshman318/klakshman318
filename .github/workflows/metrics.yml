@@ -29,7 +29,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
-          base: repositories
 
       # Repositories Overview
       - name: Generate Repositories Overview
@@ -40,7 +39,6 @@ jobs:
           user: klakshman318
           plugin_repositories: yes
           plugin_repositories_affiliations: owner, collaborator
-          base: repositories
 
       # Contribution Calendar
       - name: Generate Contribution Calendar
@@ -50,7 +48,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: klakshman318
           plugin_iso_calendar: yes
-          base: repositories
 
       # Total Stars Earned
       - name: Generate Total Stars Earned
@@ -60,8 +57,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: klakshman318
           plugin_stars: yes
-          plugin_stars_limit: 100  # Max 100 starred repos displayed
-          base: repositories
+          plugin_stars_limit: 100
 
       # Total PRs & Issues
       - name: Generate Total PRs & Issues
@@ -72,4 +68,42 @@ jobs:
           user: klakshman318
           plugin_followup: yes
           plugin_followup_sections: prs, issues
-          base: repositories
+
+      # Coding Activity (Commits Per Hour & Day)
+      - name: Generate Coding Activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: klakshman318
+          plugin_habits: yes
+          plugin_habits_days: yes
+          plugin_habits_facts: yes
+
+      # Lines of Code Written
+      - name: Generate Lines of Code Written
+        uses: lowlighter/metrics@latest
+        with:
+          filename: lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: klakshman318
+          plugin_lines: yes
+
+      # Achievements & Badges
+      - name: Generate Achievements & Badges
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: klakshman318
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+
+      # Activity Graph (Top Contributors)
+      - name: Generate Activity Graph
+        uses: lowlighter/metrics@latest
+        with:
+          filename: contributors.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: klakshman318
+          plugin_contributors: yes
