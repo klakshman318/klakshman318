@@ -54,6 +54,15 @@ Here are my **GitHub Stats & Contributions**:
 ### 🔹 **Profile Summary**  
 ![GitHub Metrics](https://github.com/klakshman318/klakshman318/blob/master/github-metrics.svg)  
 
+### 🔹 **Recent Achievements & Badges** 🏆  
+![Achievements](https://github.com/klakshman318/klakshman318/blob/master/achievements.svg)  
+
+### 🔹 **Total Stars Earned** ⭐  
+![Total Stars](https://github.com/klakshman318/klakshman318/blob/master/stars.svg) 
+
+### 🔹 **Lines of Code Written**  
+![Lines of Code](https://github.com/klakshman318/klakshman318/blob/master/lines.svg) 
+
 ### 🔹 **Most Used Languages**  
 ![Most Used Languages](https://github.com/klakshman318/klakshman318/blob/master/languages.svg)  
 
@@ -61,22 +70,13 @@ Here are my **GitHub Stats & Contributions**:
 ![Repositories Overview](https://github.com/klakshman318/klakshman318/blob/master/repos.svg)  
 
 ### 🔹 **Contribution Calendar**  
-![GitHub Contribution Calendar](https://github.com/klakshman318/klakshman318/blob/master/iso-calendar.svg)  
-
-### 🔹 **Total Stars Earned** ⭐  
-![Total Stars](https://github.com/klakshman318/klakshman318/blob/master/stars.svg)  
+![GitHub Contribution Calendar](https://github.com/klakshman318/klakshman318/blob/master/iso-calendar.svg)   
 
 ### 🔹 **Total Pull Requests & Issues** 🔄  
 ![Total PRs & Issues](https://github.com/klakshman318/klakshman318/blob/master/prs-issues.svg)  
 
 ### 🔹 **Coding Activity (Commits Per Hour & Day)**  
-![Coding Activity](https://github.com/klakshman318/klakshman318/blob/master/habits.svg)  
-
-### 🔹 **Lines of Code Written**  
-![Lines of Code](https://github.com/klakshman318/klakshman318/blob/master/lines.svg)  
-
-### 🔹 **Recent Achievements & Badges** 🏆  
-![Achievements](https://github.com/klakshman318/klakshman318/blob/master/achievements.svg)  
+![Coding Activity](https://github.com/klakshman318/klakshman318/blob/master/habits.svg)   
 
 ### 🔹 **Activity Graph (Top Contributors to My Repositories)**  
 ![Top Contributors](https://github.com/klakshman318/klakshman318/blob/master/contributors.svg)  
