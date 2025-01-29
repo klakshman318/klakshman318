@@ -49,9 +49,23 @@
 
 ## 📊 GitHub Metrics  
 
-Here are my **GitHub Stats & Contributions**:  
+Here are my **GitHub Stats & Contributions**:
 
 ### 🔹 **Profile Summary**  
-![GitHub Metrics](https://github.com/klakshman318/klakshman318/blob/master/github-metrics.svg)   
+![GitHub Metrics](https://github.com/klakshman318/klakshman318/blob/master/github-metrics.svg)  
 
-![Lakshman Kambam GitHub Stats](https://github-readme-stats.vercel.app/api?username=klakshman318&hide=["issues"]&show_icons=true)  
+### 🔹 **Most Used Languages**  
+![Most Used Languages](https://github.com/klakshman318/klakshman318/blob/master/languages.svg)  
+
+### 🔹 **Repositories Overview**  
+![Repositories Overview](https://github.com/klakshman318/klakshman318/blob/master/repos.svg)  
+
+### 🔹 **Contribution Calendar**  
+![GitHub Contribution Calendar](https://github.com/klakshman318/klakshman318/blob/master/iso-calendar.svg)  
+
+### 🔹 **Total Stars Earned** ⭐  
+![Total Stars](https://github.com/klakshman318/klakshman318/blob/master/stars.svg)  
+
+### 🔹 **Total Pull Requests & Issues** 🔄  
+![Total PRs & Issues](https://github.com/klakshman318/klakshman318/blob/master/prs-issues.svg)  
+
