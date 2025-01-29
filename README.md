@@ -18,34 +18,34 @@
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 
-#### 🎨 **Frontend Development**  
-🌱 JavaScript & TypeScript 🌱 React.js 🌱 Next.js 🌱 React Native 🌱 Redux 🌱 HTML5 🌱 CSS3 🌱 Bootstrap 🌱 Material UI  
+#### 🎨 **Frontend Development**
+🌱 JavaScript & TypeScript 🌱 React.js 🌱 Next.js 🌱 React Native 🌱 Redux 🌱 PHP 🌱 jQuery 🌱 HTML5 🌱 CSS3 🌱 Bootstrap 🌱 Material UI 🌱 Tailwind CSS 🌱 IBM Carbon
 
-#### 🛠 **Backend Development**  
-🌱 Node.js 🌱 NestJS 🌱 Express.js 🌱 Java Spring Boot 🌱 API Development 🌱 Redis 🌱 LoopBack.io  
+#### 🛠 **Backend Development**
+🌱 Node.js 🌱 NestJS 🌱 Express.js 🌱 Mongoose 🌱 TypeORM 🌱 Java Spring Boot 🌱 Python 🌱 API Development 🌱 Redis 🌱 LoopBack.io  
 
-#### 🗄 **Databases**  
-🌱 MySQL 🌱 PostgreSQL 🌱 MongoDB 🌱 Mongoose  
+#### 🗄 **Databases**
+🌱 MySQL 🌱 PostgreSQL 🌱 MongoDB 🌱 MongoDB Realm Sync
 
-#### ☁ **Cloud & DevOps**  
-🌱 Google Cloud (GCP) 🌱 AWS (EC2, S3) 🌱 Kubernetes 🌱 CI/CD 🌱 Cloud Strategy  
+#### ☁ **Cloud & DevOps**
+🌱 AWS (EC2, S3, LB, ELB) 🌱 Nginx 🌱 Google Cloud (GCP) 🌱 Kubernetes 🌱 CI/CD 🌱 Cloud Strategy  
 
-#### 🔧 **Tools & Other Skills**  
-🌱 Jira 🌱 Azure Repos 🌱 Code Review 🌱 Data Modeling 🌱 Python 🌱 jQuery 🌱 Web Development  
+#### 🔧 **Tools & Other Skills**
+🌱 Jira 🌱 DBMS Architecture 🌱 Open AI API Usage 🌱 Statistical Data Analysis 🌱 Azure Repos 🌱 Code Review 🌱 Data Modeling 🌱 Web Development 🌱 UI/UX 🌱 Mobile App Development 🌱 Google Actions
 
 ---
 
-### 🎮 Hobbies & Interests  
-🧠  &nbsp;I’m currently working on many things.  
-🧬  &nbsp;I’m fascinated by subatomic particles like quarks and the mysteries of physics.  
-🌌  &nbsp;I'm passionate about space, science, and nature.  
-🎮  &nbsp;When I’m not coding, you’ll find me immersed in the world of video games—exploring virtual realms on **PC, PlayStation, and Xbox**. Gaming fuels my creativity and problem-solving mindset!  
+### 🎮 Hobbies & Interests
+🧠  &nbsp;I’m currently working on many things.
+🧬  &nbsp;I’m fascinated by subatomic particles like quarks and the mysteries of physics.
+🌌  &nbsp;I'm passionate about space, science, and nature.
+🎮  &nbsp;When I’m not coding, you’ll find me immersed in the world of video games—exploring virtual realms on **PC, PlayStation, and Xbox**. Gaming fuels my creativity and problem-solving mindset!
 
-### 💡 Quotes I Live By  
-💎  *"Talent means nothing without consistent effort and practice!"*  
-💎  *"A moment of pain is worth a lifetime of glory!"*  
+### 💡 Quotes I Live By
+💎  *"Talent means nothing without consistent effort and practice!"*
+💎  *"A moment of pain is worth a lifetime of glory!"*
 
 ## 📊 GitHub Metrics  
 
