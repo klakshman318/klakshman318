@@ -49,35 +49,27 @@
 
 ## 📊 GitHub Metrics  
 
-Here are my **GitHub Stats & Contributions**:
+Here are my **GitHub Stats & Contributions**, including **LeetCode stats, achievements, coding activity, and more**:
 
-### 🔹 **Profile Summary**  
-![GitHub Metrics](https://github.com/klakshman318/klakshman318/blob/master/github-metrics.svg)
+![GitHub Metrics](https://github.com/klakshman318/klakshman318/blob/master/github-metrics.svg)  
 
-### 🔹 **Recent Achievements & Badges** 🏆  
-![Achievements](https://github.com/klakshman318/klakshman318/blob/master/achievements.svg)  
+---
+
+### **🔹 What’s Included in This Metrics Image?**
+✔ **Profile Summary** (Name, Join Date, Followers, Repo Activity)  
+✔ **LeetCode Stats** (Solved Problems, Skills, Recent Submissions)  
+✔ **Achievements & Badges** 🏆  
+✔ **Most Used Languages** 🏗️  
+✔ **Total Stars Earned** ⭐  
+✔ **Total PRs & Issues** 🔄  
+✔ **Contribution Calendar** 📅  
+✔ **Coding Activity (Commits Per Hour & Day)** 🕒  
+✔ **Lines of Code Written** 📜  
+✔ **Activity Graph (Top Contributors to My Repositories)**
 
 ### 🔹 **Total Stars Earned** ⭐  
 ![Total Stars](https://github.com/klakshman318/klakshman318/blob/master/stars.svg) 
 
-### 🔹 **Lines of Code Written**  
-![Lines of Code](https://github.com/klakshman318/klakshman318/blob/master/lines.svg) 
-
 ### 🔹 **Most Used Languages**  
-![Most Used Languages](https://github.com/klakshman318/klakshman318/blob/master/languages.svg)  
-
-### 🔹 **Repositories Overview**  
-![Repositories Overview](https://github.com/klakshman318/klakshman318/blob/master/repos.svg)  
-
-### 🔹 **Contribution Calendar**  
-![GitHub Contribution Calendar](https://github.com/klakshman318/klakshman318/blob/master/iso-calendar.svg)   
-
-### 🔹 **Total Pull Requests & Issues** 🔄  
-![Total PRs & Issues](https://github.com/klakshman318/klakshman318/blob/master/prs-issues.svg)  
-
-### 🔹 **Coding Activity (Commits Per Hour & Day)**  
-![Coding Activity](https://github.com/klakshman318/klakshman318/blob/master/habits.svg)   
-
-### 🔹 **Activity Graph (Top Contributors to My Repositories)**  
-![Top Contributors](https://github.com/klakshman318/klakshman318/blob/master/contributors.svg)  
+![Most Used Languages](https://github.com/klakshman318/klakshman318/blob/master/languages.svg)   
 
