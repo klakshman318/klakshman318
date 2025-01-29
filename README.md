@@ -52,15 +52,6 @@
 Here are my **GitHub Stats & Contributions**:  
 
 ### 🔹 **Profile Summary**  
-![GitHub Metrics](https://github.com/klakshman318/klakshman318/blob/main/github-metrics.svg)  
-
-### 🔹 **Most Used Languages**  
-![Most Used Languages](https://github.com/klakshman318/klakshman318/blob/main/languages.svg)  
-
-### 🔹 **Repositories Overview**  
-![Repositories Overview](https://github.com/klakshman318/klakshman318/blob/main/repos.svg)  
-
-### 🔹 **Contribution Calendar**  
-![GitHub Contribution Calendar](https://github.com/klakshman318/klakshman318/blob/main/iso-calendar.svg)  
+![GitHub Metrics](https://github.com/klakshman318/klakshman318/blob/master/github-metrics.svg)   
 
 ![Lakshman Kambam GitHub Stats](https://github-readme-stats.vercel.app/api?username=klakshman318&hide=["issues"]&show_icons=true)  
