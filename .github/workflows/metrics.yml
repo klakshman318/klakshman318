@@ -9,7 +9,9 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub Metrics
+
+      # Main GitHub Metrics Profile Summary
+      - name: Generate Profile Summary
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
@@ -17,36 +19,52 @@ jobs:
           user: klakshman318
           base: header, activity, community, repositories
 
-          # Most Used Languages
+      # Most Used Languages
+      - name: Generate Most Used Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: klakshman318
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
 
-          # Repositories Overview
+      # Repositories Overview
+      - name: Generate Repositories Overview
+        uses: lowlighter/metrics@latest
+        with:
+          filename: repos.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: klakshman318
           plugin_repositories: yes
           plugin_repositories_affiliations: owner, collaborator
 
-          # Contribution Calendar
+      # Contribution Calendar
+      - name: Generate Contribution Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: iso-calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: klakshman318
           plugin_iso_calendar: yes
 
-          # Commits Per Hour & Day
-          plugin_habits: yes
-          plugin_habits_days: yes
-          plugin_habits_facts: yes
-
-          # Starred Repos & Followers
+      # Total Stars Earned
+      - name: Generate Total Stars Earned
+        uses: lowlighter/metrics@latest
+        with:
+          filename: stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: klakshman318
           plugin_stars: yes
-          plugin_people: yes
+          plugin_stars_limit: 100  # Max 100 starred repos displayed
 
-          # Lines of Code Written
-          plugin_lines: yes
-
-          # Pull Requests & Issues Statistics
+      # Total PRs & Issues
+      - name: Generate Total PRs & Issues
+        uses: lowlighter/metrics@latest
+        with:
+          filename: prs-issues.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: klakshman318
           plugin_followup: yes
-
-          # Activity Graph
-          plugin_contributors: yes
-
-          # Recent Activity & Achievements
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
+          plugin_followup_sections: prs, issues
