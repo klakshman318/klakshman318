@@ -64,7 +64,6 @@ Here’s an overview of **my GitHub activity, coding stats, LeetCode progress, a
 ✔ **Notable Contributions** (Commits in Organizations) 🔥  
 ✔ **GitHub Community Engagement** (Followers, Following) 🤝  
 ✔ **Reactions & Interactions** (Likes, Comments on GitHub Content) 💬  
-✔ **Website Preview** 🌍 (Auto-generated screenshot of [lakshmankambam.com](https://lakshmankambam.com))  
 
 
 
