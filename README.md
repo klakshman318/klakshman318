@@ -30,10 +30,10 @@
 🌱 MySQL 🌱 PostgreSQL 🌱 MongoDB 🌱 MongoDB Realm Sync  
 
 #### ☁ **Cloud & DevOps**  
-🌱 AWS (EC2, S3, LB, ELB) 🌱 Nginx 🌱 Google Cloud (GCP) 🌱 Kubernetes 🌱 CI/CD 🌱 Cloud Strategy   
+🌱 AWS (EC2, S3, ELB, ALB) 🌱 Nginx 🌱 Google Cloud (GCP) 🌱 Kubernetes 🌱 Docker 🌱 CI/CD 🌱 Cloud Strategy   
 
 #### 🔧 **Tools & Other Skills**  
-🌱 Jira 🌱 DBMS Architecture 🌱 Open AI API Usage 🌱 Statistical Data Analysis 🌱 Azure Repos 🌱 Code Review 🌱 Data Modeling 🌱 Web Development 🌱 UI/UX 🌱 Mobile App Development 🌱 Google Actions  
+🌱 Jira 🌱 DBMS Architecture 🌱 Agile 🌱 Open AI API Usage 🌱 Statistical Data Analysis 🌱 Azure Repos 🌱 Code Review 🌱 Data Modeling 🌱 Web Development 🌱 UI/UX 🌱 Mobile App Development 🌱 Google Actions  
 
 ---
 
