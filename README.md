@@ -9,7 +9,7 @@
 # Lakshman Kambam 👽  
 🚀 **Full-Stack Developer | Technical Project Manager | Cloud Architect** 🚀  
 
-### 🚀 About Me  
+### About Me  
 💡 I love solving problems—whether it's fixing a tricky bug, optimizing performance, or designing a seamless user experience. With **12+ years** in software development, I’ve worked across the full stack, turning complex challenges into simple, effective solutions.  
 
 🔍 Beyond just writing code, I focus on understanding the *"why"* behind the problem, ensuring that the solutions I build aren’t just functional but truly impactful. I enjoy collaborating with teams, streamlining workflows, and finding **smarter, more efficient ways** to get things done.  
@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack  
 
 #### 🎨 **Frontend Development**  
-🌱 JavaScript & TypeScript 🌱 React.js 🌱 Next.js 🌱 React Native 🌱 Redux 🌱 PHP 🌱 jQuery 🌱 HTML5 🌱 CSS3 🌱 Bootstrap 🌱 Material UI 🌱 Tailwind CSS 🌱 IBM Carbon  
+🌱 JavaScript 🌱 TypeScript 🌱 React.js 🌱 Next.js 🌱 React Native 🌱 Redux 🌱 PHP 🌱 jQuery 🌱 HTML5 🌱 CSS3 🌱 Bootstrap 🌱 Material UI 🌱 Tailwind CSS 🌱 IBM Carbon  
 
 #### 🛠 **Backend Development**  
 🌱 Node.js 🌱 NestJS 🌱 Express.js 🌱 Mongoose 🌱 TypeORM 🌱 Java Spring Boot 🌱 Python 🌱 API Development 🌱 Redis 🌱 LoopBack.io  
