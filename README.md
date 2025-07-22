@@ -21,7 +21,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Always+learning%2C+always+evolving+🧠;Building+the+future+with+code+💻)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Always+learning%2C+always+evolving+🧠;Turning+ideas+into+reality+🚀;)](https://git.io/typing-svg)
   
 </div>
 
@@ -44,7 +44,7 @@
 
 ### 🏆 Achievement Showcase
 
-<img src="https://github-profile-trophy.vercel.app/?username=klakshman318&theme=tokyonight&no-frame=true&margin-w=6&column=6&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://github-profile-trophy.vercel.app/?username=klakshman318&theme=tokyonight&no-frame=true&margin-w=5&column=5&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 # 🛠️ Tech Stack
 
