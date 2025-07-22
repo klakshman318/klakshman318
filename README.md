@@ -7,14 +7,13 @@
 <img align='right' src='http://www.lakshmankambam.com/Lakshman.png' width='200' />  
 
 # Lakshman Kambam 👽  
-🚀 **Full-Stack Developer | Generative AI Leader (Google) Technical Project Manager | Cloud Architect** 🚀  
+🚀 **Full-Stack Developer | Generative AI Leader (Google) | Technical Project Manager | Cloud Architect** 🚀  
 
 ### About Me  
-💡 I love solving problems—whether it's fixing a tricky bug, optimizing performance, or designing a seamless user experience. With **12+ years** in software development, I’ve worked across the full stack, turning complex challenges into simple, effective solutions.  
 
-🔍 Beyond just writing code, I focus on understanding the *"why"* behind the problem, ensuring that the solutions I build aren’t just functional but truly impactful. I enjoy collaborating with teams, streamlining workflows, and finding **smarter, more efficient ways** to get things done.  
+Beyond just writing code, I focus on understanding the *"why"* behind the problem, ensuring that the solutions I build aren’t just functional but truly impactful. I enjoy collaborating with teams, streamlining workflows, and finding **smarter, more efficient ways** to get things done.  
 
-🚀 Always learning, always evolving—I stay ahead of the curve to build **scalable, intuitive, and future-proof applications** that make a difference.  
+Always learning, always evolving., I stay ahead of the curve to build **scalable, intuitive, and future-proof applications** that make a difference.  
 
 ---
 
