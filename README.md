@@ -41,10 +41,19 @@
 ║      and finding smarter, more efficient solutions             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
 ### 🏆 Achievement Showcase
 
 <img src="https://github-profile-trophy.vercel.app/?username=klakshman318&theme=tokyonight&no-frame=true&margin-w=5&column=5&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+
+<div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/klakshman318/klakshman318/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/klakshman318/klakshman318/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/klakshman318/klakshman318/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 # 🛠️ Tech Stack
 
